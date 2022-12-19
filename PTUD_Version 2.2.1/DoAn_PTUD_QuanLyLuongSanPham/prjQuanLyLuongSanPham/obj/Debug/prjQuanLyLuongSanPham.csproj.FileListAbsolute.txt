@@ -1,0 +1,499 @@
+D:\iuh_3_1\Phát triển ứng dụng\coding\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\prjQuanLyLuongSanPham.exe.config
+D:\iuh_3_1\Phát triển ứng dụng\coding\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\prjQuanLyLuongSanPham.exe
+D:\iuh_3_1\Phát triển ứng dụng\coding\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\prjQuanLyLuongSanPham.pdb
+D:\iuh_3_1\Phát triển ứng dụng\coding\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.csprojResolveAssemblyReference.cache
+D:\iuh_3_1\Phát triển ứng dụng\coding\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmTinhLuongNVHC.resources
+D:\iuh_3_1\Phát triển ứng dụng\coding\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmTrangChu.resources
+D:\iuh_3_1\Phát triển ứng dụng\coding\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.Properties.Resources.resources
+D:\iuh_3_1\Phát triển ứng dụng\coding\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.csproj.GenerateResource.Cache
+D:\iuh_3_1\Phát triển ứng dụng\coding\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.exe
+D:\iuh_3_1\Phát triển ứng dụng\coding\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.pdb
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\prjQuanLyLuongSanPham.exe.config
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.exe
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.pdb
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\prjQuanLyLuongSanPham.exe
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\prjQuanLyLuongSanPham.pdb
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmTinhLuongNVHC.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmTrangChu.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.Properties.Resources.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.csproj.GenerateResource.Cache
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmLogin.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.Controls.TextBox.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.csprojResolveAssemblyReference.cache
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmTinhLuongCN.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmNhanVien.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmHopDong.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmSanPham.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmCongDoan.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQLHeSoLuong.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQLChamCongNVHC.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQLChamCongCN.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQLLuongBHXH.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQDTangLuong.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmChucVu.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.3\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\prjQuanLyLuongSanPham.exe.config
+C:\Users\Thngu\Desktop\PTUD_Version 1.3\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\prjQuanLyLuongSanPham.exe
+C:\Users\Thngu\Desktop\PTUD_Version 1.3\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\prjQuanLyLuongSanPham.pdb
+C:\Users\Thngu\Desktop\PTUD_Version 1.3\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.csproj.AssemblyReference.cache
+C:\Users\Thngu\Desktop\PTUD_Version 1.3\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thngu\Desktop\PTUD_Version 1.3\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.Controls.TextBox.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.3\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmLogin.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.3\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmHopDong.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.3\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQDTangLuong.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.3\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQLChamCongCN.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.3\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQLChamCongNVHC.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.3\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmChucVu.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.3\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQLHeSoLuong.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.3\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQLLuongBHXH.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.3\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmTinhLuongCN.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.3\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmNhanVien.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.3\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmSanPham.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.3\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmCongDoan.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.3\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmTinhLuongNVHC.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.3\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmTrangChu.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.3\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.Properties.Resources.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.3\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.csproj.GenerateResource.cache
+C:\Users\Thngu\Desktop\PTUD_Version 1.3\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.csproj.CoreCompileInputs.cache
+C:\Users\Thngu\Desktop\PTUD_Version 1.3\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.exe
+C:\Users\Thngu\Desktop\PTUD_Version 1.3\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.pdb
+C:\Users\Thngu\Desktop\PTUD_Version 1.3\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmPhanCongChoCN.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\prjQuanLyLuongSanPham.exe.config
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.exe
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.pdb
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\prjQuanLyLuongSanPham.exe
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\prjQuanLyLuongSanPham.pdb
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.csprojResolveAssemblyReference.cache
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.Controls.TextBox.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmLogin.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmHopDong.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmPhanCongChoCN.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQDTangLuong.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQLChamCongCN.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQLChamCongNVHC.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmChucVu.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQLHeSoLuong.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQLLuongBHXH.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmTinhLuongCN.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmNhanVien.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmSanPham.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmCongDoan.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmTinhLuongNVHC.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmTrangChu.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.Properties.Resources.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.csproj.GenerateResource.Cache
+C:\Users\Thngu\Desktop\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\prjQuanLyLuongSanPham.exe.config
+C:\Users\Thngu\Desktop\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\prjQuanLyLuongSanPham.exe
+C:\Users\Thngu\Desktop\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\prjQuanLyLuongSanPham.pdb
+C:\Users\Thngu\Desktop\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.csproj.AssemblyReference.cache
+C:\Users\Thngu\Desktop\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thngu\Desktop\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.Controls.TextBox.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmLogin.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmHopDong.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmPhanCongChoCN.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQDTangLuong.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQLChamCongCN.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQLChamCongNVHC.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmChucVu.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQLHeSoLuong.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQLLuongBHXH.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmTinhLuongCN.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmNhanVien.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmSanPham.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmCongDoan.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmTinhLuongNVHC.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmTrangChu.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.Properties.Resources.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.csproj.GenerateResource.cache
+C:\Users\Thngu\Desktop\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.csproj.CoreCompileInputs.cache
+C:\Users\Thngu\Desktop\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.exe
+C:\Users\Thngu\Desktop\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.pdb
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.4.2\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\prjQuanLyLuongSanPham.exe.config
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.4.2\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.exe
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.4.2\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.pdb
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.4.2\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\prjQuanLyLuongSanPham.exe
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.4.2\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\prjQuanLyLuongSanPham.pdb
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.4.2\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.csprojResolveAssemblyReference.cache
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.4.2\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.Controls.TextBox.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.4.2\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmLogin.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.4.2\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmHopDong.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.4.2\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmPhanCongChoCN.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.4.2\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQDTangLuong.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.4.2\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQLChamCongCN.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.4.2\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQLChamCongNVHC.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.4.2\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmChucVu.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.4.2\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQLHeSoLuong.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.4.2\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQLLuongBHXH.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.4.2\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmNhanVien.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.4.2\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmSanPham.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.4.2\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmCongDoan.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.4.2\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmTinhLuongNVHC.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.4.2\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmTrangChu.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.4.2\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.Properties.Resources.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.4.2\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.csproj.GenerateResource.Cache
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.4.2\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmTinhLuongCN.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.4.2\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\BouncyCastle.Crypto.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.4.2\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\itextsharp.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.4.2\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\itextsharp.xml
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.4.2\PTUD_Version 1.4\PTUD_Version 1.3.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmThongKeLuong.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.5\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\prjQuanLyLuongSanPham.exe.config
+C:\Users\Thngu\Desktop\PTUD_Version 1.5\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\prjQuanLyLuongSanPham.exe
+C:\Users\Thngu\Desktop\PTUD_Version 1.5\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\prjQuanLyLuongSanPham.pdb
+C:\Users\Thngu\Desktop\PTUD_Version 1.5\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Thngu\Desktop\PTUD_Version 1.5\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\itextsharp.dll
+C:\Users\Thngu\Desktop\PTUD_Version 1.5\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\itextsharp.xml
+C:\Users\Thngu\Desktop\PTUD_Version 1.5\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.csproj.AssemblyReference.cache
+C:\Users\Thngu\Desktop\PTUD_Version 1.5\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thngu\Desktop\PTUD_Version 1.5\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.Controls.TextBox.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.5\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmLogin.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.5\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmHopDong.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.5\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmPhanCongChoCN.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.5\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQDTangLuong.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.5\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQLChamCongCN.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.5\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQLChamCongNVHC.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.5\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmChucVu.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.5\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQLHeSoLuong.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.5\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQLLuongBHXH.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.5\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmNhanVien.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.5\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmSanPham.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.5\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmCongDoan.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.5\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmThongKeLuong.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.5\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmTinhLuongCN.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.5\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmTinhLuongNVHC.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.5\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmTrangChu.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.5\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.Properties.Resources.resources
+C:\Users\Thngu\Desktop\PTUD_Version 1.5\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.csproj.GenerateResource.cache
+C:\Users\Thngu\Desktop\PTUD_Version 1.5\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.csproj.CoreCompileInputs.cache
+C:\Users\Thngu\Desktop\PTUD_Version 1.5\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.csproj.CopyComplete
+C:\Users\Thngu\Desktop\PTUD_Version 1.5\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.exe
+C:\Users\Thngu\Desktop\PTUD_Version 1.5\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.pdb
+C:\Users\Thngu\Desktop\PTUD_Version 1.5\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmDoiMK.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.5.2\PTUD_Version 1.5.2\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\prjQuanLyLuongSanPham.exe.config
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.5.2\PTUD_Version 1.5.2\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.exe
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.5.2\PTUD_Version 1.5.2\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.pdb
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.5.2\PTUD_Version 1.5.2\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\prjQuanLyLuongSanPham.exe
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.5.2\PTUD_Version 1.5.2\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\prjQuanLyLuongSanPham.pdb
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.5.2\PTUD_Version 1.5.2\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\BouncyCastle.Crypto.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.5.2\PTUD_Version 1.5.2\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\itextsharp.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.5.2\PTUD_Version 1.5.2\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\itextsharp.xml
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.5.2\PTUD_Version 1.5.2\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.csprojResolveAssemblyReference.cache
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.5.2\PTUD_Version 1.5.2\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.Controls.TextBox.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.5.2\PTUD_Version 1.5.2\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmDoiMK.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.5.2\PTUD_Version 1.5.2\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmLogin.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.5.2\PTUD_Version 1.5.2\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmHopDong.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.5.2\PTUD_Version 1.5.2\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmPhanCongChoCN.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.5.2\PTUD_Version 1.5.2\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQDTangLuong.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.5.2\PTUD_Version 1.5.2\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQLChamCongCN.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.5.2\PTUD_Version 1.5.2\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQLChamCongNVHC.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.5.2\PTUD_Version 1.5.2\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmChucVu.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.5.2\PTUD_Version 1.5.2\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQLHeSoLuong.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.5.2\PTUD_Version 1.5.2\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQLLuongBHXH.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.5.2\PTUD_Version 1.5.2\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmNhanVien.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.5.2\PTUD_Version 1.5.2\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmSanPham.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.5.2\PTUD_Version 1.5.2\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmCongDoan.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.5.2\PTUD_Version 1.5.2\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmThongKeLuong.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.5.2\PTUD_Version 1.5.2\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmTinhLuongCN.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.5.2\PTUD_Version 1.5.2\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmTinhLuongNVHC.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.5.2\PTUD_Version 1.5.2\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmTrangChu.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.5.2\PTUD_Version 1.5.2\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.Properties.Resources.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.5.2\PTUD_Version 1.5.2\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.csproj.GenerateResource.Cache
+D:\iuh_3_1\Phát triển ứng dụng\Coding\bản vá\PTUD_Version 1.5.2\PTUD_Version 1.5.2\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmTimKiemNhanVien.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\prjQuanLyLuongSanPham.exe.config
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.exe
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.pdb
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\prjQuanLyLuongSanPham.exe
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\prjQuanLyLuongSanPham.pdb
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\BouncyCastle.Crypto.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\itextsharp.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\itextsharp.xml
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.Controls.TextBox.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmDoiMK.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmHopDong.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmLogin.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmNhanVien.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmPhanCongChoCN.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQDTangLuong.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQLChamCongCN.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQLChamCongNVHC.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmChucVu.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQLHeSoLuong.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQLLuongBHXH.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmSanPham.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmCongDoan.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmThongKeLuong.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmTimKiemNhanVien.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmTinhLuongCN.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmTinhLuongNVHC.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmTrangChu.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.Properties.Resources.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.csproj.GenerateResource.Cache
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\EnvDTE.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\stdole.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\EnvDTE80.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\VSLangProj.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\VSLangProj80.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\Microsoft.MSXML.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\Microsoft.Build.Framework.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\VSLangProj2.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmBaoCaoLuongNVHC.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmBaoCaoLuongCN.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.csprojResolveAssemblyReference.cache
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.0\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.csproj.prjQuanLyLuongSanPham.exe.config
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\prjQuanLyLuongSanPham.exe.config
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.exe
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.pdb
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\prjQuanLyLuongSanPham.exe
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\prjQuanLyLuongSanPham.pdb
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\BouncyCastle.Crypto.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\itextsharp.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\EnvDTE.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\stdole.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\EnvDTE80.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\VSLangProj.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\VSLangProj80.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\Microsoft.MSXML.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\Microsoft.Build.Framework.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\VSLangProj2.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\itextsharp.xml
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.csprojResolveAssemblyReference.cache
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.csproj.prjQuanLyLuongSanPham.exe.config
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.Controls.TextBox.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmBaoCaoLuongCN.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmDoiMK.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmLogin.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQLChamCongCN.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmTrangChu.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmBaoCaoLuongNVHC.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmHopDong.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmNhanVien.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmPhanCongChoCN.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQDTangLuong.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQLChamCongNVHC.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmChucVu.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQLHeSoLuong.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQLLuongBHXH.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmSanPham.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmCongDoan.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmThongKeLuong.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmTimKiemNhanVien.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmTinhLuongCN.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmTinhLuongNVHC.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.Properties.Resources.resources
+D:\iuh_3_1\Phát triển ứng dụng\Coding\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\prjQuanLyLuongSanPham.exe.config
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\prjQuanLyLuongSanPham.exe
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\prjQuanLyLuongSanPham.pdb
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\itextsharp.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\EnvDTE.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\stdole.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\itextsharp.xml
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.Controls.TextBox.resources
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmBaoCaoLuongCN.resources
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmDoiMK.resources
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmLogin.resources
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQLChamCongCN.resources
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmTrangChu.resources
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmBaoCaoLuongNVHC.resources
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmHopDong.resources
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmNhanVien.resources
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmPhanCongChoCN.resources
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQDTangLuong.resources
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQLChamCongNVHC.resources
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmChucVu.resources
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQLHeSoLuong.resources
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmQLLuongBHXH.resources
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmSanPham.resources
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmCongDoan.resources
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmThongKeLuong.resources
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.GUI.frmTimKiemNhanVien.resources
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmTinhLuongCN.resources
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.frmTinhLuongNVHC.resources
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.csproj.CopyComplete
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.exe
+C:\Users\Administrator\Desktop\PTUD\PTUD_Version 2.2.1\PTUD_Version 2.2.1\DoAn_PTUD_QuanLyLuongSanPham\prjQuanLyLuongSanPham\obj\Debug\prjQuanLyLuongSanPham.pdb
